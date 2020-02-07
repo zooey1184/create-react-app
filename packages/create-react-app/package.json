@@ -1,6 +1,6 @@
 {
-  "name": "rcli-base",
-  "version": "1.0.0",
+  "name": "@zooey1184/create-react-app",
+  "version": "0.1",
   "keywords": [
     "react fork create-react-app"
   ],
